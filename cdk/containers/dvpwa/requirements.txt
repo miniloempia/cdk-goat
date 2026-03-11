@@ -20,3 +20,4 @@ worktoy==0.99.53
 borb==2.0.29
 dictlib==1.1.5
 django3-viewflow==2.0.2
+python-dateutil==2.9.0
